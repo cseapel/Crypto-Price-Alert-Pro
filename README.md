@@ -30,5 +30,5 @@ It uses the CoinGecko API to fetch real-time data and provides simple strategy i
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/crypto-price-alert-pro.git
+git clone https://github.com/cseapel/crypto-price-alert-pro.git
 cd crypto-price-alert-pro
