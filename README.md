@@ -11,7 +11,7 @@ It integrates with the CoinGecko API and provides simple strategy insights using
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshots/app.jpg)
+![App Screenshot](img/app.png)
 
 ---
 
